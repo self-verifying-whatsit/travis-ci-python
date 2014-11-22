@@ -2,4 +2,4 @@
 
 # Basic Travis setup
 
-Basic python project using [Travis CI](travis-ci.org/) and [pytest](http://pytest.org/) to test a python module
+Basic python project using [Travis CI](https://travis-ci.org) and [pytest](http://pytest.org) to test a python module
