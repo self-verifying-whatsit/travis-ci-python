@@ -2,17 +2,21 @@
 
 # Travis setup for a simple Python project
 
-Travis offers free Continuous Integration for Open Source Projects and integrates nicely with Github.The [Travis CI central issue tracker is on Github](https://github.com/travis-ci/travis-ci) (obviously :))
+**Flat, one module Python project with a test module runnable by pytest**
 
-### A one module Python project with a test module runnable by pytest.
+Travis offers free Continuous Integration for Open Source Projects and integrates nicely with Github.The [Travis CI central issue tracker is on Github](https://github.com/travis-ci/travis-ci) (obviously :))
 
 Uses:
 
 * [Travis CI](https://travis-ci.org)
 * [pytest](http://pytest.org)
 
-Try it locally like so:
+## Try it
   
+locally:
+
     curl https://raw.githubusercontent.com/self-validating-blueprint/travis-ci-python/master/svb.sh | bash
 
-See [getting started](http://docs.travis-ci.com/user/getting-started/) for general info how to connect your projects to Travis CI and the [Python related docs](http://docs.travis-ci.com/user/languages/python/)
+... or fork it and [connect it to your Travis account](http://docs.travis-ci.com/user/getting-started/).
+
+See the [Python related docs](http://docs.travis-ci.com/user/languages/python/) for more configuration options of .travis.yml
