@@ -13,6 +13,6 @@ Uses:
 
 Try it locally like so:
   
-  curl https://raw.githubusercontent.com/self-validating-blueprint/travis-ci-python/master/svb.sh | bash
+    curl https://raw.githubusercontent.com/self-validating-blueprint/travis-ci-python/master/svb.sh | bash
 
 See [getting started](http://docs.travis-ci.com/user/getting-started/) for general info how to connect your projects to Travis CI and the [Python related docs](http://docs.travis-ci.com/user/languages/python/)
