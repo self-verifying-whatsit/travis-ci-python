@@ -13,9 +13,7 @@ Travis offers free Continuous Integration for Open Source Projects and integrate
 
 ## Self validation
   
-**locally**
-
-    curl https://raw.githubusercontent.com/self-validating-blueprint/travis-ci-python/master/svb.sh | bash
+**locally**: curl https://raw.githubusercontent.com/self-validating-blueprint/travis-ci-python/master/svb.sh | bash
 
 **in your account** or [fork this repository](https://github.com/self-validating-blueprint/travis-ci-python/fork) and [connect it to your Travis account](http://docs.travis-ci.com/user/getting-started/).
 
