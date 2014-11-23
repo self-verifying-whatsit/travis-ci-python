@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/self-validating-howtos/travis-ci-python-basic.svg)](https://travis-ci.org/self-validating-howtos/travis-ci-python-basic)
+[![Build Status](https://travis-ci.org/self-validating-howtos/travis-ci-python.svg)](https://travis-ci.org/self-validating-howtos/travis-ci-python)
 
 # Basic Travis setup
 
