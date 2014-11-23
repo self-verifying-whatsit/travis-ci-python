@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/self-validating-howtos/travis-ci-python.svg)](https://travis-ci.org/self-validating-howtos/travis-ci-python)
+[![Build Status](https://travis-ci.org/self-validating-blueprint/travis-ci-python.svg?branch=master)](https://travis-ci.org/self-validating-blueprint/travis-ci-python)
 
-# Basic Travis setup
+# Travis setup for a Python project
 
 Travis offers free Continuous Integration for Open Source Projects and integrates nicely with Github.The [Travis CI central issue tracker is on Github](https://github.com/travis-ci/travis-ci) (obviously :))
 
