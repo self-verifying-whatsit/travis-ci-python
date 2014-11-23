@@ -11,7 +11,7 @@ Travis offers free Continuous Integration for Open Source Projects and integrate
 * [Travis CI](https://travis-ci.org)
 * [pytest](http://pytest.org)
 
-## Try it
+## Self validation
   
 **locally**
 
