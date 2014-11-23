@@ -4,7 +4,7 @@
 
 Travis offers free Continuous Integration for Open Source Projects and integrates nicely with Github.The [Travis CI central issue tracker is on Github](https://github.com/travis-ci/travis-ci) (obviously :))
 
-## SVB: A one module Python project with a test module runnable by pytest.
+### A one module Python project with a test module runnable by pytest.
 
 Uses:
 
