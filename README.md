@@ -14,6 +14,6 @@ Travis offers free Continuous Integration for Open Source Projects and plays nic
 
 ## Validate it yourself (or use it as a bluprint for your project)
 
-[fork this repository](https://github.com/self-validating-blueprint/travis-ci-python/fork) and [connect it to your Travis account](http://docs.travis-ci.com/user/getting-started/).
+[Fork this repository](https://github.com/self-validating-blueprint/travis-ci-python/fork) and [connect it to your Travis account](http://docs.travis-ci.com/user/getting-started/).
 
 See the [Python related docs](http://docs.travis-ci.com/user/languages/python/) for more configuration options of .travis.yml
