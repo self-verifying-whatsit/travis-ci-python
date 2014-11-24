@@ -17,3 +17,8 @@ Travis offers free Continuous Integration for Open Source Projects and plays nic
 [Fork this repository](https://github.com/self-validating-blueprint/travis-ci-python/fork) and [connect it to your Travis account](http://docs.travis-ci.com/user/getting-started/).
 
 See the [Python related docs](http://docs.travis-ci.com/user/languages/python/) for more configuration options of .travis.yml
+
+
+## What is this?
+
+This repository demonstrates the basic idea of a Self Validating Blueprint (SVB) as introduced in [this blogpost](https://self-validating-blueprint.github.io/introduction/).
