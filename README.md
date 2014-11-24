@@ -12,7 +12,8 @@ Travis offers free Continuous Integration for Open Source Projects and plays nic
 * [pytest](http://pytest.org)
 
 
-## Validate it yourself (or use it as a bluprint for your project)
+## Validate it yourself
+*(or use it as a bluprint for your project)*
 
 [Fork this repository](https://github.com/self-validating-blueprint/travis-ci-python/fork) and [connect it to your Travis account](http://docs.travis-ci.com/user/getting-started/).
 
