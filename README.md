@@ -12,10 +12,8 @@ Travis offers free Continuous Integration for Open Source Projects and integrate
 * [pytest](http://pytest.org)
 
 
-## Validate it yourself
+## Validate it yourself (or use it as a bluprint for your project)
 
-**locally**: `curl https://raw.githubusercontent.com/self-validating-blueprint/travis-ci-python/master/svb.sh | bash`
-
-**in your account:** [fork this repository](https://github.com/self-validating-blueprint/travis-ci-python/fork) and [connect it to your Travis account](http://docs.travis-ci.com/user/getting-started/).
+[fork this repository](https://github.com/self-validating-blueprint/travis-ci-python/fork) and [connect it to your Travis account](http://docs.travis-ci.com/user/getting-started/).
 
 See the [Python related docs](http://docs.travis-ci.com/user/languages/python/) for more configuration options of .travis.yml
