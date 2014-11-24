@@ -2,9 +2,9 @@
 
 #### Self validation Status: [![Build Status](https://travis-ci.org/self-validating-blueprint/travis-ci-python.svg?branch=master)](https://travis-ci.org/self-validating-blueprint/travis-ci-python)
 
-**Flat, one module Python project with a test module runnable by pytest**
+**Flat, single module Python project with a test module runnable by pytest**
 
-Travis offers free Continuous Integration for Open Source Projects and integrates nicely with Github.The [Travis CI central issue tracker is on Github](https://github.com/travis-ci/travis-ci) (obviously :))
+Travis offers free Continuous Integration for Open Source Projects and plays nicely with Github.The [Travis CI central issue tracker is on Github](https://github.com/travis-ci/travis-ci) (obviously :))
 
 ## Tools used
 
