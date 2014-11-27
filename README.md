@@ -2,7 +2,7 @@
 
 ### Flat, single module Python project with a test module runnable by pytest
 
-**Self validated?** [![Build Status](https://travis-ci.org/self-validating-blueprint/travis-ci-python.svg?branch=master)](https://travis-ci.org/self-validating-blueprint/travis-ci-python) runs weekly with [traviscron](http://traviscron.pythonanywhere.com)
+**Self validated?** [![Build Status](https://travis-ci.org/self-validating-blueprint/travis-ci-python.svg?branch=master)](https://travis-ci.org/self-validating-blueprint/travis-ci-python) (run weekly with [traviscron](http://traviscron.pythonanywhere.com))
 
 
 
