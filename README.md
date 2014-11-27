@@ -1,6 +1,7 @@
 # Travis setup for a simple Python project
 
-#### Self validation Status: [![Build Status](https://travis-ci.org/self-validating-blueprint/travis-ci-python.svg?branch=master)](https://travis-ci.org/self-validating-blueprint/travis-ci-python)
+#### Self validation Status: [![Build Status](https://travis-ci.org/self-validating-blueprint/travis-ci-python.svg?branch=master)](https://travis-ci.org/self-validating-blueprint/travis-ci-python) (run weekly with http://traviscron.pythonanywhere.com/)
+
 
 **Flat, single module Python project with a test module runnable by pytest**
 
