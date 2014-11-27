@@ -5,7 +5,6 @@
 **Self validated?** [![Build Status](https://travis-ci.org/self-validating-blueprint/travis-ci-python.svg?branch=master)](https://travis-ci.org/self-validating-blueprint/travis-ci-python) (run weekly with [traviscron](http://traviscron.pythonanywhere.com))
 
 
-
 Travis offers free Continuous Integration for Open Source Projects and plays nicely with Github.The [Travis CI central issue tracker is on Github](https://github.com/travis-ci/travis-ci) (obviously :))
 
 ## Tools used
